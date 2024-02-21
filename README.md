@@ -6,6 +6,6 @@ Hosted at https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Pr
 
 Hosted at https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Prabhu225/discount.html
 
-Hosted at https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Prabhu225/parcing.html
+Hosted at https://44-563-web-apps-s24.github.io/44563-webapps-s24-assignment6-Prabhu225/packing.html
 
 
